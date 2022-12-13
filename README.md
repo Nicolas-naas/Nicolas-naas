@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicolas-naas
 - 👀 I’m interested in coding web apps
-- 🌱 I’m currently learning ruby on rails, javascript 
+- 🌱 I’m currently learning ruby on rails, javascript, HTML 5 and CSS3
 - 💞️ I’m looking to collaborate on all web projects who's interesting to work in, to improve my skills
 - 📫 You can reach me on my linkedin account https://www.linkedin.com/in/nicolasnaas
 
